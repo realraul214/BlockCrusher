@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSceneSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*"  >
+	<w:Config id="169c3134bf0" ></w:Config>
+	<e:Image source="bg2_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Label id="GameName" text="打  砖  块" y="188" textAlign="center" verticalAlign="middle" anchorOffsetY="0" left="0" right="0" height="93.64" textColor="0xffffff" fontFamily="Microsoft YaHei" size="50" stroke="3" strokeColor="0x000000" visible="false"/>
+	<e:Image id="StartButton" source="Sta_png" x="234" y="674" visible="false"/>
+	<e:Image id="Player" source="bat_huge_png" x="272" y="1046"/>
+	<e:Image id="Ball" source="ball_pinball_png" x="326" y="360"/>
+	<e:Rect height="47" y="30" fillColor="0xc1bbbb" anchorOffsetX="0" anchorOffsetY="0" alpha="0.7" width="227" horizontalCenter="0" ellipseHeight="0" ellipseWidth="39" strokeColor="0x0b04ed" strokeAlpha="1" strokeWeight="3"/>
+	<e:Label text="得分：" y="32" anchorOffsetX="0" width="132" anchorOffsetY="0" height="43" verticalAlign="middle" textAlign="center" x="212"/>
+	<e:Label id="Score" text="" x="320" y="32" height="43" verticalAlign="middle" anchorOffsetX="0" width="110" textAlign="center"/>
+	<e:Rect width="130.26" height="80" x="606.57" y="-55.04" ellipseWidth="62" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x47912f" rotation="45" visible="false"/>
+	<e:Rect width="130.26" height="80" x="86" y="1.53" ellipseWidth="62" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x47912F" rotation="135" visible="false"/>
+	<e:Rect width="603.26" height="67" x="22.87" y="-48" ellipseWidth="62" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x47912F" rotation="0" visible="false"/>
+</e:Skin>

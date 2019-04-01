@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameRectSkin" width="64" height="32" currentState="start" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="destroy,start" >
+	<w:Config id="169c3a13297" ></w:Config>
+	<e:Image source="stone_png" includeIn="start" left="0" right="0" top="0" bottom="0"/>
+	<e:Image source="stone_png" left="0" right="0" top="0" bottom="0" includeIn=""/>
+</e:Skin>

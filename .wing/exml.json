@@ -1,0 +1,26 @@
+{
+    "169c3134bf0": {
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "169c39b398f": {
+        "path": "..\\resource\\Skins\\Rect.ts",
+        "class": "Rect",
+        "parentPath": ""
+    },
+    "169c3a092bb": {
+        "path": "..\\resource\\Skins\\GameRect.ts",
+        "class": "GameRect",
+        "parentPath": ""
+    },
+    "169c3a13297": {
+        "path": "..\\resource\\Skins\\GameRect.ts",
+        "class": "GameRect",
+        "parentPath": ""
+    }
+}
